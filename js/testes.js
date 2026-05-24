@@ -63,7 +63,7 @@ TestFramework.test(
 
     const atendimento = cadastrarAtendimento({
       tutor: " Erlon ",
-      pet: " Rene ",
+      pet: " churrasco ",
       especie: "bovino",
       peso: 400,
       servico: "consulta",
